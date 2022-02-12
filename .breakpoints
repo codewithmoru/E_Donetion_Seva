@@ -1,0 +1,24 @@
+{
+  "files": {
+    "templates/index.html": [
+      {
+        "id": "7df2d57b-975b-4f97-9e48-f53fd0b3bbba",
+        "line": 1,
+        "version": 519,
+        "index": 0
+      },
+      {
+        "id": "7dcaa064-dd01-489e-a78a-e6b4c876a0e7",
+        "line": 192,
+        "version": 519,
+        "index": 8873
+      },
+      {
+        "id": "6de20b6b-b1ea-42e4-8a80-1f751cbcf13e",
+        "line": 192,
+        "version": 519,
+        "index": 8873
+      }
+    ]
+  }
+}
